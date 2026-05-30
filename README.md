@@ -36,7 +36,7 @@ The model achieved high performance metrics:
 
 ## 📂 File Structure
 - `Iris.csv`: The raw dataset.
-- `main.py`: The Python script containing the code.
+- `project_2.py`: The Python script containing the code.
 - `README.md`: This documentation.
 
 ## 🔧 Installation & Usage
